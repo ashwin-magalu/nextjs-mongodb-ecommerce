@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    BASE_URL: "http://localhost:3000",
+    BASE_URL: "https://nextjs-mongo-ecom.herokuapp.com",
     MONGO_URL:
       "mongodb+srv://ashwin:1234@ashwin.qdwos.mongodb.net/next_mongo_ecom?retryWrites=true&w=majority",
     ACCESS_TOKEN_SECRET: "ashw73015magalu21412781",
